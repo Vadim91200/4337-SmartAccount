@@ -46,7 +46,7 @@ With PlentiFi's account abstraction:
 - 📲 Seamless mobile experience
 - ⚡ Fast transaction processing
 - 🔐 Enhanced security features
-- 
+  
 ### How It Works
 1. Users interact with your application
 2. PlentiFi creates a smart contract wallet for each user
