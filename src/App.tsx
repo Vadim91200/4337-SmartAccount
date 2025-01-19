@@ -1,8 +1,10 @@
-import Counter from './components/Counter'
+import NFTMintingApp from './components/NFTMintingApp'
 
 function App() {
   return (
-    <Counter />
+    <div>
+      <NFTMintingApp />
+    </div>
   )
 }
 
